@@ -1,101 +1,136 @@
+<!--
+👋 Perfil de Nicolas Bastos
+Foco em Inteligência Artificial e Desenvolvimento de Dados.
+-->
+
 <div align="center">
-<h1>Nicolas Bastos</h1>
-  <h3>GC 2025 IA & Dados | Análise e Desenvolvimento de Sistemas</h3>   <p>
-    <a href="https://www.linkedin.com/in/nicolasbastos05/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nicolasbastos058@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
+<!-- Ícone de Destaque para causar impacto -->
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Shahriar-Shadik/Shahriar-Shadik/main/assets/programmer.gif" alt="Ícone de um programador em GIF" width="80" />
+
+<!-- Título Principal -->
+
+<h1>NICOLAS BASTOS</h1>
+
+<!-- Subtítulo com Foco -->
+
+<h3>Tech Enthusiast | Focado em transformar Dados em Soluções Inteligentes 🧠</h3>
+
+<!-- Badges de Contato -->
+
+<p>
+<a href="https://www.linkedin.com/in/nicolasbastos05/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:nicolasbastos058@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
+</a>
+</p>
 </div>
 
+<!-- Divisor de Conteúdo -->
 
+🚀 Sobre Mim: Migrando para a Fronteira Digital
 
+Sou um profissional com uma base sólida em disciplina e resolução de problemas, em transição de carreira da área industrial para o universo de Inteligência Artificial e Desenvolvimento de Sistemas.
 
-🚀 Sobre Mim
+🎓 Formação & Destaque:
 
-Olá! Sou o Nicolas, um profissional apaixonado por tecnologia e inovação, focado em migrar minha carreira da área industrial para o universo do desenvolvimento de sistemas e Inteligência Artificial.
+Geração Caldeira (GC 2025) - Trilha IA & Dados: Um dos 200 selecionados para este programa de alto prestígio, focado em acelerar o desenvolvimento de soluções com dados e IA.
 
-Fui um dos 200 selecionados para o prestigiado programa Geração Caldeira (Trilha de IA & Dados ), uma conquista que reforça minha determinação em transformar desafios em soluções digitais inteligentes e impactantes.
+Análise e Desenvolvimento de Sistemas (Unisinos): Aprimorando minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisinos, onde aprimoro minhas habilidades em:
+Meu objetivo é aplicar meu raciocínio lógico e minha paixão por tecnologia para criar soluções digitais inteligentes e de alto impacto, buscando minha primeira oportunidade na área.
 
-• Python para desenvolvimento de aplicações.
+🛠️ Stack Principal: IA & Full-Stack
 
-• Desenvolvimento Web e SQL para manipulação de dados.
-
-• Raciocínio lógico, disciplina e foco em resolução de problemas, bagagem valiosa da minha experiência anterior.
-
-Estou em busca da minha primeira oportunidade em tecnologia para aplicar meu conhecimento e crescer com novos desafios.
-
-🛠️ Habilidades Técnicas
+Minhas habilidades são orientadas para a construção de aplicações que utilizam dados e inteligência. A organização em tabela seguida de badges oferece uma visão clara e objetiva do seu stack.
 
 Categoria
+
 Tecnologias
-Linguagens
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-Data Science & IA
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/> <img src="https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI Badge"/> <img src="https://img.shields.io/badge/Chatbots-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="Chatbots Badge"/>
-Frameworks & Ferramentas
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
 
+Inteligência Artificial & Dados
 
+Python
 
+Linguagens Core
 
+JavaScript
+
+Ferramentas & Plataformas
+
+Flask
+
+💡 Ferramentas e Linguagens em Detalhe:
+
+<p align="center">
+<!-- IA & Dados -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gemini_AI-000000%3Fstyle%3Dflat%26logo%3Dgoogle%26logoColor%3Dwhite" alt="Gemini AI Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL Badge"/>
+
+<!-- Web & Ferramentas -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
+</p>
 
 💻 Projetos em Destaque
 
+Meus projetos demonstram a aplicação prática das habilidades de Data Science, IA e desenvolvimento web.
+
 🤖 TheoBot: Chatbot de Análise de Dados com IA
 
-• Descrição: Um chatbot que responde a perguntas em linguagem natural com base em dados de planilhas, utilizando Inteligência Artificial.
+Foco: O primeiro projeto de IA generativa e deploy em produção.
 
-• Tecnologias: Python, Flask, Pandas, Google Gemini AI, Deploy (Render ).
+Descrição: Um chatbot inteligente que utiliza IA para analisar dados de planilhas e fornecer respostas em linguagem natural.
 
-• Destaque: Meu primeiro projeto com IA generativa e deploy em produção, demonstrando a aplicação prática de Data Science e Web Development.
+Tecnologias: Python, Flask, Pandas, Google Gemini AI, Deploy (Render).
 
-• Repositório: Bastoosz/TheoBot
+Repositório: Bastoosz/TheoBot
 
 🏀 Dribla: Plataforma de Gestão Esportiva
 
-• Descrição: Projeto de gestão esportiva que demonstra habilidades em desenvolvimento front-end e tipagem.
+Foco: Arquitetura de Software e Tipagem.
 
-• Tecnologias: TypeScript.
+Descrição: Projeto conceitual de gestão esportiva que explora o desenvolvimento front-end com forte tipagem de dados.
 
-• Repositório: Bastoosz/Dribla
+Tecnologias: TypeScript.
 
-🏃 AgileFit
+Repositório: Bastoosz/Dribla
 
-•
-Descrição: Projeto focado em uma landing page de formulário totalmente em HTML.
+🏃 AgileFit: Web Design Estático
 
-• Tecnologias: HTML.
+Foco: Fundamentos de Web Development.
 
-• Repositório: Bastoosz/AgileFit
+Descrição: Projeto focado na aplicação robusta de HTML e princípios de design web estático.
 
+Tecnologias: HTML, CSS.
 
+Repositório: Bastoosz/AgileFit
 
+📈 Atividade no GitHub
 
-📈 Estatísticas do GitHub
+Aqui estão algumas estatísticas que refletem minha atividade e foco:
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bastoosz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastoosz&layout=compact&langs_count=6&theme=dracula"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBastoosz%26show_icons%3Dtrue%26theme%3Dnord%26include_all_commits%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub" alt="Nicolas GitHub Stats"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBastoosz%26layout%3Dcompact%26langs_count%3D6%26theme%3Dnord%26hide_border%3Dtrue" alt="Nicolas Top Languages"/>
 </div>
 
+🌐 Conecte-se e Colabore
 
+Vamos transformar ideias em código. Estou aberto a projetos e oportunidades.
 
-
-🤝 Conecte-se
+<div align="center">
+<a href="https://www.linkedin.com/in/nicolasbastos05/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Button"/>
+</a>
+</div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nicolasbastos05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nicolasbastos058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p> <p align="center">
-  <i>"Entender o 'porquê' antes do 'como' é uma lição que vai me ajudar muito a entregar valor real."</i>
+"Entender o 'porquê' antes do 'como' é uma lição que vai me ajudar muito a entregar valor real."
 </p>
-
