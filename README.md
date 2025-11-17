@@ -95,10 +95,4 @@ Vamos transformar ideias em código. Estou aberto a projetos e oportunidades.
     <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
   </a>
 </div>
-
-<br>
-
-<p align="center">
-  **"Entender o 'porquê' antes do 'como' é uma lição que vai me ajudar muito a entregar valor real."**
-</p>
 ```eof
