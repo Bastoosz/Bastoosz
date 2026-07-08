@@ -7,7 +7,7 @@
 <b>Programs</b> .: Geração Caldeira 2025 (AI & Data) | LALA<br>
 <br>
 <b>> stack</b><br>
-<b>Languages</b> .: Python, JavaScript, SQL<br>
+<b>Languages</b> .: Python, JavaScript, SQL, Java<br>
 <b>Databases</b> .: PostgreSQL, MongoDB, Supabase<br>
 <b>Tools</b> .: Docker, Git, n8n<br>
 <b>Emphasis</b> .: REST APIs & Artificial Intelligence<br>
